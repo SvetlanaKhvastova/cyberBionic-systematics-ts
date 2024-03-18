@@ -1,0 +1,19 @@
+{
+  "name": "typescript-hw-04",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamentals Урок 4",
+  "main": "main.js",
+  "scripts": {
+    "start": "lite-server",
+    "build": "webpack"
+  },
+  "author": "Khvastova",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.2",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}

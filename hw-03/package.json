@@ -1,0 +1,14 @@
+{
+  "name": "typescript-hw-02",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamentals Урок 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "author": "Khvastova",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}

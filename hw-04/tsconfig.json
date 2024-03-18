@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": false,
+    "outDir": "final",
+    "lib": ["es2016", "dom"]
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
